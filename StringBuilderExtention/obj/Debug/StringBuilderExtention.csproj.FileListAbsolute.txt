@@ -1,0 +1,6 @@
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\bin\Debug\StringBuilderExtention.exe.config
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\obj\Debug\StringBuilderExtention.csprojResolveAssemblyReference.cache
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\bin\Debug\StringBuilderExtention.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\bin\Debug\StringBuilderExtention.pdb
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\obj\Debug\StringBuilderExtention.exe
+C:\Users\angelovn\Documents\SoftUni\Levels\Level 2\OOP\06. Functional-Programming\Homework\Functional Programming\StringBuilderExtention\obj\Debug\StringBuilderExtention.pdb
